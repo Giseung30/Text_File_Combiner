@@ -5,12 +5,12 @@
 **1)** 합치고자 하는 텍스트 파일들을 <u>드래그 앤 드롭</u>한다.
 <div align="center">
     <img width="75%" height="75%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/476ff70f-5f94-43c1-9bfe-7235b1f9a539"/>
-</div>
+</div><br>
 
 **2)** 아래 필드에 생성하고자 하는 <u>폴더</u>와 <u>파일 이름</u>을 함께 적어준다.
 <div align="center">
     <img width="75%" height="75%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/51611fa2-197f-42bc-980e-adad87cdafa9"/>
-</div>
+</div><br>
 
 **3)** <u>Combine</u> 버튼을 클릭한다.
 <div align="center">
@@ -23,7 +23,7 @@
 ## ✔️ 결과
 <div align="center">
     <img width="45%" height="45%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/de3231b3-b5e3-498d-8d0d-8d2e8ab24b5c"/>
-</div> <br>
+</div><br>
 
 + <u>Add New Line</u> 체크 시 파일 끝마다 줄바꿈을 추가한다.
 + <u>Add Title</u> 체크 시 파일 시작마다 제목을 추가한다.
