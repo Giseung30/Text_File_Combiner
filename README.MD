@@ -7,7 +7,7 @@
     <img width="75%" height="75%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/476ff70f-5f94-43c1-9bfe-7235b1f9a539"/>
 </div><br>
 
-**2)** 아래 필드에 생성하고자 하는 `폴더`와 `파일 이름`을 함께 적어준다.
+**2)** 아래 필드에 생성하고자 하는 `경로`와 `파일 이름`을 함께 적어준다.
 <div align="center">
     <img width="75%" height="75%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/51611fa2-197f-42bc-980e-adad87cdafa9"/>
 </div><br>
