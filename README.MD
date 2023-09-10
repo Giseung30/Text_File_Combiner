@@ -20,13 +20,12 @@
     <img width="75%" height="75%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/887438f8-015d-4966-9cd3-e0b96bc5ad59"/>
 </div>
 
-## ✔️ 결과
-<div align="center">
-    <img width="45%" height="45%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/de3231b3-b5e3-498d-8d0d-8d2e8ab24b5c"/>
-</div><br>
-
 + `Add New Line` 체크 시 파일 끝마다 줄바꿈을 추가한다.
 + `Add Title` 체크 시 파일 시작마다 제목을 추가한다.
 
-> 위 결과는 두 옵션 모두 체크한 것이다. <br>
-> a.txt["aaa"], b.txt["bbb"], c.txt["ccc"]
+## ✔️ 결과
+> a.txt("**aaa**"), b.txt("**bbb**"), c.txt("**ccc**")이고, `Add New Line` & `Add Title` 모두 체크했을 때, 결과는 아래와 같다.
+
+<div align="center">
+    <img width="45%" height="45%" src="https://github.com/Giseung30/Text_File_Combiner/assets/60832219/de3231b3-b5e3-498d-8d0d-8d2e8ab24b5c"/>
+</div>
